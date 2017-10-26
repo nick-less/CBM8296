@@ -1,0 +1,46 @@
+
+
+
+NET "A[15]"	loc="P14";
+NET "A[14]"	loc="P16";
+NET "A[13]"	loc="P18";
+NET "A[12]"	loc="P21";
+NET "A[11]"	loc="P20";
+NET "A[10]"	loc="P22";
+NET "A[9]"	loc="P19";
+NET "A[8]"	loc="P23";
+
+
+NET "PHI2"	loc="P28";
+NET "RW"	loc="P29";
+NET "NOSCREEN"	loc="P30";
+NET "NOIO"	loc="P31";
+NET "RAMSELA"	loc="P27";
+NET "RAMSEL9"	loc="P37";
+NET "RAMON"	loc="P41";
+NET "NOROM"	loc="P42";
+
+NET "CASENAI"	loc="P2";
+NET "FA12"	loc="P3";
+NET "CSKB"	loc="P5";
+NET "CSE"	loc="P6";
+NET "CSIO"	loc="P7";
+NET "CSA"	loc="P8";
+NET "CS9"	loc="P13";
+NET "CSWFF"	loc="P12";
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
